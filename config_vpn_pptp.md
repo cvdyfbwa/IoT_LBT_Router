@@ -12,7 +12,8 @@
 
 LBT T-T390 were discovered to contain a stack overflow via the vpn_client_ip parameter in the config_vpn_pptp function.
 
-## Vulnerability De
+## Vulnerability Details
+
 The calling process of this overflow function is as follows. The vpn_client_ip variable in the config_vpn_pptp function in the Rc program has a stack overflow. The rc program is started through its symbolic link init. The variable is obtained through the system NVRAM_GEtails
 T function. The attacker can modify the request packet parameters through the VPN_PPTP.asp page. Incoming, ultimately causing a server denial attack.
 
