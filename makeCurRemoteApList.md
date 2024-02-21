@@ -20,7 +20,7 @@ The calling process of the overflow function is as follows:
 
 Main()->sysK_main()->scanApAutoConnect()->makeCurRemoteApList()
 
-![image](https://github.com/cvdyfbwa/IoT_LBT_Router/assets/150313831/da0cf326-a087-442c-9cd1-f7943158c9ee)
+![image](https://github.com/cvdyfbwa/IoT_LBT_Router/assets/150313831/5f8c944d-dd0d-4471-a684-cdffc71c6335)
 
 
 ## POC
