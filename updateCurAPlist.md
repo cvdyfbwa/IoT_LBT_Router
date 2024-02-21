@@ -20,7 +20,7 @@ The calling process of the overflow function is as follows:
 
 Main()->sub_40BEC8()->start_lan()->start_wlan()->config_wlan()->generate_conf()->generate_conf_router()->updateCurAPlist()
 
-![image](https://github.com/cvdyfbwa/IoT_LBT_Router/assets/150313831/45b8e878-0813-45fc-980a-8afa96170544)
+![image](https://github.com/cvdyfbwa/IoT_LBT_Router/assets/150313831/ff4cb5dd-c7f8-4fec-a54c-672a76ff0b68)
 
 
 ## POC
